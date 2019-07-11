@@ -2,6 +2,6 @@
 
 main.remove()
 
-var header = document.createElement("h1");
+var element = document.createElement("h1");
 document.body.appendChild(header);
 let newHeader = 0;
