@@ -3,4 +3,4 @@
 main.remove()
 
 var header = document.createElement("h1");
-var newHeader = document.querySelector(header);
+let newHeader = document.querySelector(header);
